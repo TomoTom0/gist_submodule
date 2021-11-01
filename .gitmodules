@@ -1,0 +1,6 @@
+[submodule "js_md5"]
+	path = js_md5
+	url = https://gist.github.com/TomoTom0/ad375538091c8c62c61422c924eb363f
+[submodule "test_index"]
+	path = test_index
+	url = https://gist.github.com/e72ffe7bfd7f24f63b83776c64d3e58e
